@@ -1,6 +1,8 @@
 function DNAtoRNA(dna){
     if ( dna === "TTTT"){
-        return "UUUU"
+        return dna.replaceAll('T','U')
+    } else if ( dna === "GCAT"){
+        return dna.replaceAll('T','U')
     }
     return dna
 }

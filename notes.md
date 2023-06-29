@@ -17,4 +17,13 @@ The input string can be of arbitrary length - in particular, it may be empty. Al
 
 ## Pomodoro 1
 
+- make the setup
+- should return dna
 - Create a fuction to make return dna
+- whan dna is "TTTT" change to "UUUU"
+- create code in prod code
+
+# Pomomodoro 2
+- when dna is "GCAT" return "GCAU"
+- create prod code
+- 
